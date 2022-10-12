@@ -1,1 +1,1 @@
-Hi this is newe turotial for Automation
+Hi this is new turotial for Automation Testing
